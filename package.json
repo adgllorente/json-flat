@@ -1,6 +1,6 @@
 {
   "name": "json-flat",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Flatters any JSON properties returning an array of concatenated properties",
   "main": "json-flat.js",
   "scripts": {
